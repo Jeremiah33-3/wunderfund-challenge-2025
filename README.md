@@ -1,3 +1,10 @@
+# What this repository is about
+
+My attempt to the Wunder Challenge.
+
+Original compeition message below.
+***
+
 # Welcome to the Wunder Challenge!
 2025-09-15
 
